@@ -1,2 +1,3 @@
 # cc927
-just another repository
+
+Be special;Be kind;
